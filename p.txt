@@ -1,4 +1,4 @@
 https://t.me/proxy?server=87.248.129.217&port=443&secret=eea44ea5e1b8331727a895b81e8c43c59e7777772e617276616e636c6f75642e6972
 https://t.me/proxy?server=edge.prxtoday.store&port=443&secret=ee9ca7db6793ada8892580787426c44fa2656467652e707278746f6461792e73746f7265
 https://t.me/proxy?server=91.243.86.237&port=443&secret=ee28f8ec821a175c1890c4b4da2342f50f67616261676f6f6c2e73697465
-https://t.me/proxy?server=yota.duckdns.org&port=4433&secret=7hrh7dT7lOTKF0p6-bBGG8tkcm9wYm94LmNvbQ
+https://t.me/proxy?server=quick.proxytg.space&port=8443&secret=eea7ad19b7d0642dbcfdc375b86f822c13717569636b2e70726f787974672e7370616365
