@@ -1,4 +1,7 @@
-https://t.me/proxy?server=87.248.129.217&port=443&secret=eea44ea5e1b8331727a895b81e8c43c59e7777772e617276616e636c6f75642e6972
 https://t.me/proxy?server=edge.prxtoday.store&port=443&secret=ee9ca7db6793ada8892580787426c44fa2656467652e707278746f6461792e73746f7265
 https://t.me/proxy?server=91.243.86.237&port=443&secret=ee28f8ec821a175c1890c4b4da2342f50f67616261676f6f6c2e73697465
-https://t.me/proxy?server=quick.proxytg.space&port=8443&secret=eea7ad19b7d0642dbcfdc375b86f822c13717569636b2e70726f787974672e7370616365
+https://t.me/proxy?server=vip2.love-pussy.ru&port=443&secret=dd3fca2dd5380c7efcf235eec5d4191df4
+https://t.me/proxy?server=apex.proxystepa.site&port=443&secret=eeded4b2736737b1f6bd19f6a07de257d0617065782e70726f787973746570612e73697465
+https://t.me/proxy?server=87.248.129.134&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=rocket.proxlet.site&port=443&secret=eed820fcb44d576ead3854439b5b044d32726f636b65742e70726f786c65742e73697465
+https://t.me/proxy?server=87.248.129.134&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
