@@ -5,3 +5,4 @@ https://t.me/proxy?server=apex.proxystepa.site&port=443&secret=eeded4b2736737b1f
 https://t.me/proxy?server=87.248.129.134&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=rocket.proxlet.site&port=443&secret=eed820fcb44d576ead3854439b5b044d32726f636b65742e70726f786c65742e73697465
 https://t.me/proxy?server=87.248.129.134&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=tg.soika.site&port=443&secret=ee28f8ec821a175c1890c4b4da2342f50f67616261676f6f6c2e73697465
